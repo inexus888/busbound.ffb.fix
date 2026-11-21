@@ -1,0 +1,4 @@
+dist/
+*.zip
+SDL2_orig.dll
+ffb_wrapper_log.txt
