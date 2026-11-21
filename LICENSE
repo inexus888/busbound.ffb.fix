@@ -1,0 +1,49 @@
+Bus Bound FFB fix
+Copyright (c) 2026 inexus888 (https://github.com/inexus888). All rights reserved.
+
+This repository, its source code, build scripts, configuration files and the
+compiled SDL2.dll wrapper (together, "the Software") are the property of the
+copyright holder. Publishing the Software on GitHub does not make it open
+source, and no licence is granted except as stated below.
+
+1. Personal use of official releases
+   You may download an official release from
+   https://github.com/inexus888/busbound.ffb.fix/releases and install it on
+   your own computers to play Bus Bound. You may change the settings in
+   ffb_wrapper.ini for that purpose.
+
+2. Everything else requires prior written permission
+   Without prior written permission from the copyright holder you may not:
+   - copy, modify, translate or create derivative works of the source code,
+     in whole or in part;
+   - use the source code, or parts of it, in other software or projects;
+   - redistribute, re-upload, mirror, bundle, sell or otherwise make
+     available the Software or modified versions of it, including on mod
+     sites, in modpacks or in other repositories;
+   - use the Software or its source code for any commercial purpose.
+
+   Viewing the repository and forking it on GitHub are allowed only to the
+   extent required by the GitHub Terms of Service; a fork does not grant any
+   of the rights listed above.
+
+3. Asking for permission
+   To request permission, open an issue at
+   https://github.com/inexus888/busbound.ffb.fix/issues or contact
+   https://github.com/inexus888. Permission is valid only if given in writing
+   by the copyright holder and only for the use it describes.
+
+4. Third-party components
+   The compiled SDL2.dll contains MinGW-w64 runtime code and libgcc
+   (GCC Runtime Library Exception). SDL2 itself is (c) Sam Lantinga under the
+   zlib licence and is not included in this repository; the wrapper loads the
+   game's own copy. Bus Bound belongs to its respective owners; this project
+   is not affiliated with Saber Interactive or Stillalive Studios.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   INCLUDING DAMAGE TO HARDWARE OR LOSS OF DATA, ARISING FROM OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE. Force-feedback wheels can apply
+   strong forces; you use the Software at your own risk.

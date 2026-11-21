@@ -50,3 +50,8 @@ If the game ships a different SDL2.dll, regenerate the export stubs first:
 
 Tested with a Simagic Alpha base. Not affiliated with Saber Interactive or Stillalive Studios.
 SDL2 is © Sam Lantinga, zlib licence; this repo contains no SDL code.
+
+## Licence
+© 2026 inexus888. All rights reserved. You may install the official release for personal use;
+any other use of the code (copying, modifying, redistributing, using it in other projects)
+needs my written permission. See [LICENSE](LICENSE); ask via an issue on this repo.
